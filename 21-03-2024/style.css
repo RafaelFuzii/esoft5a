@@ -119,6 +119,13 @@
         display: flex;
         flex-direction: row;
         justify-content: space-around;
+        flex-wrap: wrap;
+      }
+
+      section #curiosidades {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
       }
 
       #curiosidades li::marker {
