@@ -189,3 +189,7 @@
       footer a[href]:hover {
         opacity: 0.8;
       }
+
+      img[alt='Squirtle Brinquedo'] {
+        padding: 30px;
+      }
